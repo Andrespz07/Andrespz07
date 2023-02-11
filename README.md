@@ -1,4 +1,6 @@
-### Hi there 👋
+# Hello 👋
+
+### I am new to the world of programming, learning full stack web development at @FactoriaF5-Asturias , living in Spain.
 
 <!--
 **Andrespz07/Andrespz07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
