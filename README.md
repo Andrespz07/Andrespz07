@@ -4,7 +4,7 @@
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=andrespz07)
 
-[![Dev.to](https://github-readme-stats.vercel.app/api/pin/?username=andrespz07&repo=REPO_andrespz07](https://https://github.com/Andrespz07/dev.to)
+[![Dev.to](https://github-readme-stats.vercel.app/api/pin/?username=andrespz07&repo=dev.to)](https://github.com/andrespz07/dev.to)
 <!--
 **Andrespz07/Andrespz07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
