@@ -2,6 +2,9 @@
 
 ### I am new to the world of programming, learning full stack web development at [Factoria F5](https://github.com/FactoriaF5-Asturias) , living in Spain.
 
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=andrespz07)
+
+[![Dev.to](https://github-readme-stats.vercel.app/api/pin/?username=andrespz07=dev.to)](https://https://github.com/Andrespz07/dev.to)
 <!--
 **Andrespz07/Andrespz07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
