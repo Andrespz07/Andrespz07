@@ -1,6 +1,6 @@
 # Hello 👋
 
-### I am new to the world of programming, learning full stack web development at [Factoria F5](https://github.com/FactoriaF5-Asturias) , living in Spain.
+### I am new to the world of programming, learning full stack web development at [Factoria F5](https://github.com/FactoriaF5-Asturias) , living in Spain. In search of work and more knowledge, on the left you have my [LinkedIn](https://www.linkedin.com/in/andresperezortega07/)!
 
 ![andrespz07's Stats](https://github-readme-stats.vercel.app/api?username=andrespz07&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
